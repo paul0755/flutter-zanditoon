@@ -1,6 +1,7 @@
 # zanditoon
-
-A new Flutter project.
+노마드 코더 강의 프로젝트
+2024년 8월 1일 종료
+dart + flutter
 
 ## Getting Started
 
